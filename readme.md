@@ -1,10 +1,13 @@
 [Co dodělat ]: #
-[nic ]: #
+
+<!--
+Diagnostika na vlastní úloze s PLC
+-->
 
 
-# Bezpečnost a diagnostika řídících jednotek
+# Bezpečnost a diagnostika řídících jednotek 
 
-$${\color{#FFA500}E14 \space \color{Gold}S25 \space \color{#4682B4}A10 }$$
+$${\color{#FFA500}E14 \space \color{Gold}S25}$$
 
 ## Cíl
 -   Studenti rozliší pojmy Safety a Security
@@ -43,6 +46,9 @@ Bezpečnost a diagnostika řídících jednotek
 >
 > Ve spojení s průmyslem lze zjednodušeně říci, že se jedná o bezpečnost před úrazem, či úmrtím.
   K zajištění se používají ochranné pomůcky (rukavice, brýle,...), specializované zařízení, komponenty, řídící jednotky,... (stop tlačítko, proudový chránič, safety PLC,...), ale také předpisy a provozní řády (např. školní řád a řád učeben), školení, apod.
+> 
+> Bezpečnostní modul – o co jde a proč je dobré to používat? Online. 2020. Dostupné z: <a href="https://www.mylms.cz/bezpecnostni-modul-o-co-jde-a-proc-je-dobre-to-pouzivat/">https://www.mylms.cz/bezpecnostni-modul-o-co-jde-a-proc-je-dobre-to-pouzivat/</a>. [cit. 2025-04-23].  
+
 
 ### 2. Security
 
